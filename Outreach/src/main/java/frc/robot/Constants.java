@@ -73,7 +73,7 @@ public final class Constants {
         public static final int RIGHT_STICK_PORT = 1;
         public static final int XBOX_CONTROLLER_PORT = 2;
 
-        public static final double DEADBAND = 0.15;
+        public static final double DEADBAND = 0.05;
 
         public static final int WRIST_UP_AXIS = 2;
         public static final int WRIST_DOWN_AXIS = 3;
@@ -149,8 +149,8 @@ public final class Constants {
         public static final double LONG_RAMP_RATE = 0.75;
 
         // 7 feet -- tarmac
-        public static final double TOP_SHOOTER_POWER = 0.20;
-        public static final double BOTTOM_SHOOTER_POWER = 0.20;
+        public static final double TOP_SHOOTER_POWER = 0.15;
+        public static final double BOTTOM_SHOOTER_POWER = 0.25;
 
         // 11 feet
         public static final double BOTTOM_SHOOTER_POWER_2 = 0.5;
